@@ -18,3 +18,4 @@ C:\Users\byacoube\Documents\GitHub\SP2010ExportMetadata\SP2010ExportMetadata\SP2
 C:\Users\byacoube\Documents\GitHub\SP2010ExportMetadata\SP2010ExportMetadata\SP2010ExportMetadata\obj\Debug\SP2010ExportMetadata.csproj.CopyComplete
 C:\Users\byacoube\Documents\GitHub\SP2010ExportMetadata\SP2010ExportMetadata\SP2010ExportMetadata\obj\Debug\SP2010ExportMetadata.exe
 C:\Users\byacoube\Documents\GitHub\SP2010ExportMetadata\SP2010ExportMetadata\SP2010ExportMetadata\obj\Debug\SP2010ExportMetadata.pdb
+C:\Users\byacoube\Documents\GitHub\SP2010ExportMetadata\SP2010ExportMetadata\SP2010ExportMetadata\obj\Debug\SP2010ExportMetadata.csprojAssemblyReference.cache
